@@ -1,2 +1,4 @@
 # SMS-DBMS_Project-CSD202-
 The SNU SHUTTLE SERVICE , provides a shuttle service to and fro the SNU campus, through this project we aim to simplify the ticket booking system for a hassel free booking and journey.
+The intention is to develop an application/Web-site through which the SNU community can check the availability, price and succesfully book the tickets for the shuttle. It also aims to simplify the work for the management by listing clearly the details of the passengers and also arranging for a paper-free ticket collection.
+Through this project we intend to provide a full-scale Website through which the SNU community can check the availability, price and successfully book the tickets for the shuttle. The website also aims to simplify the work for the management by listing clearly the details of the passengers and also arranging for a paper-free ticket collection.
